@@ -34,6 +34,7 @@ def soccer_exhaustive(G):
                 counter += 1
     return counter
 
+# main function prints output from soccer_exhaustive function
 def main():
     r = int(input("Enter the number of rows: "))
     c = int(input("Enter the number of columns: "))

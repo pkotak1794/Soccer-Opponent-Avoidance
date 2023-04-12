@@ -8,5 +8,5 @@ Exhaustive Search <br>
 2.) In the terminal enter: python3 exhaustive.py <br>
 <br>
 Dynamic Programming <br>
-1.) Download the file ________ <br>
-2.) In the terminal enter: python3 ________ <br>
+1.) Download the file dynamic.py <br>
+2.) In the terminal enter: python3 dynamic.py <br>

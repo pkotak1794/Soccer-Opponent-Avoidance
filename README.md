@@ -1,6 +1,5 @@
-Project Three <br>
+Project Three: <br>
 Spring 2023 CPSC 335 - Algorithm Engineering <br>
-By <br>
 Priyanka Lee: priyankaaax3@csu.fullerton.edu <br>
 Daniel Garcia: dannygarcia2120@csu.fullerton.edu <br>
 Gian Carlo Santos: gsantos08@csu.fullerton.edu <br>

@@ -15,5 +15,6 @@ Dynamic Programming <br>
 1.) Download the file dynamic.py <br>
 2.) In the terminal enter: python3 dynamic.py <br>
 Example Outputs: <br>
+<br>
 ![Screenshot_2023-04-18_at_11 56 22_PM](https://user-images.githubusercontent.com/78058333/232992572-5e756ce3-abb7-4acd-8e48-8b27ee620932.jpg)
 ![Screenshot 2023-04-19 at 12 00 35 AM](https://user-images.githubusercontent.com/78058333/232992823-a072ca5c-3865-4913-b2b4-0f33afdc48e4.jpg)

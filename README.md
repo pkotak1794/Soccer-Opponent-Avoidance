@@ -9,7 +9,7 @@ Exhaustive Search <br>
 <br>
 Example Outputs: <br>
 ![Screenshot 2023-04-19 at 12 05 17 AM](https://user-images.githubusercontent.com/78058333/232994192-348f2f07-be12-4559-be23-cf82180332ad.jpg)
-![Screenshot 2023-04-19 at 12 08 06 AM](https://user-images.githubusercontent.com/78058333/232994496-91953008-9743-4fae-90b6-700a53687528.jpg)
+![Screenshot 2023-04-19 at 12 11 21 AM](https://user-images.githubusercontent.com/78058333/232995683-e50ea296-bef6-402a-a3c9-9e848025acb1.jpg)
 
 Dynamic Programming <br>
 1.) Download the file dynamic.py <br>

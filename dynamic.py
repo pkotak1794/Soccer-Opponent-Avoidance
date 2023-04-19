@@ -1,3 +1,7 @@
+# Spring 2023 CPSC 335 - Algorithm Engineering 
+# Algorithm 2: Dynamic Programming
+# Team Members: Priyanka Lee, Danny Garcia, and Gian Carlo Santos 
+
 def soccer_dyn_prog(F):
     #initialize rows/column
     r = len(F)

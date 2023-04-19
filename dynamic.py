@@ -6,11 +6,11 @@ def soccer_dyn_prog(F):
     if F[0][0] == 'X':
         return 0
     #new matrix
-    A = [0][0]
+    A = [[0 for _ in range(c)] for _ in range(r)]
     #general case
     A[0][0] = 1
-    for i in range(0, r - 1):
-        for j in range(0,c - 1):
+    for i in range(0, r):
+        for j in range(0, c):
             if F[i][j] == 'X':
                 A[i][j] = 0
                 continue
@@ -34,3 +34,4 @@ def main():
     
 if __name__ == "__main__":
     main()
+
